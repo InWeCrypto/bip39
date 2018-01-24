@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "a6600008915114d9c087fad9f03d75087b1a74df",
+			"revisionTime": "2018-01-19T09:51:11Z"
+		}
+	],
+	"rootPath": "github.com/inwecrypto/bip39"
+}
